@@ -72,4 +72,4 @@ Neura can open your favorite apps, tell the current time or date, and even respo
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/Neura.git
+   git clone https://github.com/laksh0777/Neura.git
